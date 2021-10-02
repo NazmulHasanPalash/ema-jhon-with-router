@@ -3,7 +3,7 @@ import React from 'react';
 const Interogate = () => {
     return (
         <div>
-            <h2>Interogate.</h2>
+            <h2>Mange inventory</h2>
         </div>
     );
 };
